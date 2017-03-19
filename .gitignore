@@ -1,0 +1,9 @@
+# 数据库文件
+/data
+
+# 数据库输出
+mongod.log
+mongod.pid
+
+# node 依赖
+/node_modules
